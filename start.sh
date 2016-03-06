@@ -1,2 +1,2 @@
 #!/bin/bash
-transmission-daemon --foreground
+transmission-daemon --foreground --config-dir /config
