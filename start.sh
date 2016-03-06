@@ -1,2 +1,2 @@
 #!/bin/bash
-bash
+transmission-daemon --foreground
